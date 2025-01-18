@@ -58,24 +58,34 @@ Please make adjustments to your application that you believe will improve the vi
 
 ![app.py](code.png)
 *app.py: This is the code modified.*
+
 ![prompt 1 default](prompt_1.png)
 *prompt_1 default*
+
 ![alt text](prompt_1m.png)
 *prompt_1 modified*
+
 ![prompt 2 default](prompt_2.png)
 *prompt_2 default*
+
 ![alt text](prompt_2m.png)
 *prompt_2 modified*
+
 ![prompt 3 default](prompt_3.png)
 *prompt_3 default*
+
 ![alt text](prompt_3m.png)
 *prompt_3 modified*
+
 ![prompt 4 default](prompt_4.png)
 *prompt_4 default*
+
 ![alt text](prompt_4m.png)
 *prompt_4 modified*
+
 ![prompt 5 default](prompt_5.png)
 *prompt_5 default*
+
 ![alt text](prompt_5m.png)
 *prompt_5 modified*
 
