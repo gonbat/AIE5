@@ -36,15 +36,15 @@ Each assignment will have a few of the following categories of exercises:
 Please evaluate your system on the following questions:
 
 1. Explain the concept of object-oriented programming in simple terms to a complete beginner. 
-    - Aspect Tested:
+    - Aspect Tested: Explain technical concepts in a simple terms.
 2. Read the following paragraph and provide a concise summary of the key points…
-    - Aspect Tested:
+    - Aspect Tested: Content understanding and summarization.
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
-    - Aspect Tested:
+    - Aspect Tested: Creativity and storytelling.
 4. If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?
-    - Aspect Tested:
+    - Aspect Tested: Problem-solving and numerical reasoning.
 5. Rewrite the following paragraph in a professional, formal tone…
-    - Aspect Tested:
+    - Aspect Tested: Language transformation and tone adjustment.
 
 This "vibe check" now serves as a baseline, of sorts, to help understand what holes your application has.
 
@@ -53,6 +53,31 @@ This "vibe check" now serves as a baseline, of sorts, to help understand what ho
 Please make adjustments to your application that you believe will improve the vibe check done above, push the changes to your HF Space and redo the above vibe check.
 
 > NOTE: You may reach for improving the model, changing the prompt, or any other method.
+
+### Captures code & prompts
+
+![app.py](code.png)
+*app.py: This is the code modified.*
+![prompt 1 default](prompt_1.png)
+*prompt_1 default*
+![alt text](prompt_1m.png)
+*prompt_1 modified*
+![prompt 2 default](prompt_2.png)
+*prompt_2 default*
+![alt text](prompt_2m.png)
+*prompt_2 modified*
+![prompt 3 default](prompt_3.png)
+*prompt_3 default*
+![alt text](prompt_3m.png)
+*prompt_3 modified*
+![prompt 4 default](prompt_4.png)
+*prompt_4 default*
+![alt text](prompt_4m.png)
+*prompt_4 modified*
+![prompt 5 default](prompt_5.png)
+*prompt_5 default*
+![alt text](prompt_5m.png)
+*prompt_5 modified*
 
 ### A Note on Vibe Checking
 
@@ -63,3 +88,11 @@ In essence, it's a first look to ensure your system isn't experiencing catastrop
 ##### 🧑‍🤝‍🧑❓ Discussion Question #1:
 
 What are some limitations of vibe checking as an evaluation tool?
+- Inconsistent Results Across Evaluators
+Different evaluators may have different interpretations of the "vibe" or feel of an interaction, leading to inconsistent feedback. Personal biases or individual preferences heavily influence the evaluation.
+- Lack of Quantifiable Metrics
+Vibe checking focuses on subjective impressions and lacks measurable or quantitative data to evaluate performance.
+- Does Not Assess Task-Specific Performance
+It may overlook whether the assistant performs well in domain-specific tasks or solves problems accurately. A model can "feel good" but fail in functionality.
+- Scalability Challenges
+Evaluating the "vibe" of an LLM assistant across numerous prompts and tasks is time-consuming and challenging to scale consistently for large datasets.
