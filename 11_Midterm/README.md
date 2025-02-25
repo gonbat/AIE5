@@ -15,12 +15,12 @@ Watch a video presentation of the chatbot:
 This project includes two key notebooks:  
 
 ### 🔹 **Fine-Tuned Embeddings & RAGAS Evaluation**  
-- **Notebook Name**: `Fine_tune_embeddings_and_ragas.ipynb`  
+- **Notebook Name**: [`Fine_tune_embeddings_and_ragas.ipynb`](Fine_tune_embeddings_and_ragas.ipynb)  
 - **Purpose**: Fine-tunes the **Snowflake Arctic-Embed-L** embeddings to improve retrieval quality.  
 - **Evaluation**: Uses **RAGAS** to compare the **base model vs. fine-tuned embeddings**, assessing improvements in retrieval accuracy.  
 
 ### 🔹 **Chatbot Creation & Testing**  
-- **Notebook Name**: `Flue_chatbot.ipynb`  
+- **Notebook Name**: [`Flue_chatbot.ipynb`](Flue_chatbot.ipynb) 
 - **Purpose**: Implements the chatbot, integrating **RAG with Qdrant and TavilyTool** for external search when needed.  
 - **Testing**: Runs sample user queries to evaluate response quality and system performance.  
 
