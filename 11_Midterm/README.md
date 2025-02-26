@@ -9,7 +9,7 @@ For a detailed breakdown of the problem, solution, data sources, and technical s
 
 ## 🎥 Solution Walkthrough  
 Watch a video presentation of the chatbot:  
-[▶️ Watch on Loom](https://www.loom.com/share/5bab2092b7f64a69a81b6d0daff74214?sid=9da01a96-1606-4e1a-abd5-6ddd157b603a)  
+[▶️ Watch on Loom](https://www.loom.com/share/e97545f6fc374caf81196b84e5f0b1b3?sid=9db3fbbb-f11a-4625-89b4-4c389431f00f)  
 
 # 📂 Notebooks Overview  
 This project includes two key notebooks:  
