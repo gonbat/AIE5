@@ -1,0 +1,7 @@
+Metric,Base Chain,Finetuned Chain
+context_recall,0.3,0.8958
+faithfulness,0.4256,0.7651
+factual_correctness,0.4373,0.5389
+answer_relevancy,0.2882,0.7093
+context_entity_recall,0.1229,0.3161
+noise_sensitivity_relevant,0.1275,0.1983
